@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="rnd_ka3005p" type="rnd_ka3005p_node" name="rnd_ka3005p_node" output="screen">
+    </node>
+</launch>

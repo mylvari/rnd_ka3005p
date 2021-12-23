@@ -1,0 +1,4 @@
+uint8 mode
+bool output_on
+bool over_voltage_protection_on
+bool over_current_protetion_on
